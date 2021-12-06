@@ -42,6 +42,8 @@ You should have the data you put into here look a lot like the sample data that 
  have the header "Time". In this column you should have all of samples of the particular time on the same row
 
 See this example:
+
+
 ![Screenshot from 2021-12-06 11-05-14](https://user-images.githubusercontent.com/27031932/144906726-4ae1cd04-bed5-409c-a8b5-92974f484772.png)
    
 That's it!
