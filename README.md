@@ -17,11 +17,11 @@ Next, you want to install your packages. For instance, say we want to install ma
 Great!
 
 ## Required Packages
-[Matplotlib](https://matplotlib.org/3.4.3/users/installing.html)
-[Numpy](https://numpy.org/install/)
-[Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
-[Scipy](https://scipy.org/install/)
-[Math](https://pypi.org/project/python-math/)
+- [Matplotlib](https://matplotlib.org/3.4.3/users/installing.html)
+- [Numpy](https://numpy.org/install/)
+- [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+- [Scipy](https://scipy.org/install/)
+- [Math](https://pypi.org/project/python-math/)
 
 ## Running Cells
 When you come across a cell you need to run, press Shift+Enter (or Return if you're on Mac) this runs the cell and spits out stuff. You can use shift+enter on cells that have this kind of text on it, but it won't do anything. Cells with code have the letters `In[ ]` on the left hand side. It will show `In[*}` while it's running and, it will show a number in it when it's done (e.g. `In[1]`). 
