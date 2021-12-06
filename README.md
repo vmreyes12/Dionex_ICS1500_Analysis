@@ -38,7 +38,11 @@ When you come across a cell you need to run, press Shift+Enter (or Return if you
 You should have the data you put into here look a lot like the sample data that is associated with this notebook. The key things that you want in your spreadsheet is:
     
    - A header on row A in the format of "Condition_ion". For example, Condition_1_sulfate. __Be sure to include no spaces__, if you need a space, place an underscore!  
-   - Column 1 should have the header "Time". In this column you should have all of samples of the particular time on the same row
+   - Column 1 should!
+ have the header "Time". In this column you should have all of samples of the particular time on the same row
+
+See this example:
+[Screenshot from 2021-12-06 11-05-14](https://user-images.githubusercontent.com/27031932/144906726-4ae1cd04-bed5-409c-a8b5-92974f484772.png)
    
 That's it!
 
