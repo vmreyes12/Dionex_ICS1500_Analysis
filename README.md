@@ -46,6 +46,12 @@ See this example:
 
 ![Screenshot from 2021-12-06 11-05-14](https://user-images.githubusercontent.com/27031932/144906726-4ae1cd04-bed5-409c-a8b5-92974f484772.png)
    
+   
+Run the script all the way through and get nice quick graphs like this:
+
+
+![Screenshot from 2021-12-06 11-10-38](https://user-images.githubusercontent.com/27031932/144907383-d4bcbfe2-15de-4376-9b8d-ccd00ff7ea7b.png)
+
 That's it!
 
 Have fun! And make some pretty graphs
